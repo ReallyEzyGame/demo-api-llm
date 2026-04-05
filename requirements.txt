@@ -1,0 +1,10 @@
+# for building model and api service
+transformers
+torch
+accelerate
+fastapi
+uvicorn
+nest-asyncio
+pydantic
+# for testing api
+requests
