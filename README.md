@@ -3,7 +3,7 @@
 Sinh Viên thực hiện:  
     - Họ và Tên: Lê Thanh Phong  
     - MSSV: 24120409  
-API service tạo sinh văn bản sử Model LLM Qwen công khai trên Hugging Face  
+API service tạo sinh văn bản sử dụng Model LLM Qwen công khai trên Hugging Face  
 Model: Qwen-2.5-3B-Instruct  
 Đường dẫn tới model trên Hugging Face: https://huggingface.co/Qwen/Qwen2.5-3B-Instruct
 
@@ -11,5 +11,5 @@ Model: Qwen-2.5-3B-Instruct
 Người sử dụng chỉ cần lấy file main.ipynb nằm trên nhánh main. Có thể tải lên và sử dụng trên Google Colab hoặc các dịch vụ tương tự hoặc có thể sử dụng để chạy trên localhost.
 
 # Demo API  
-Thực hiện trực tiếp trên file .ipynb( sử dụng trên Colab) và các file script .py nằm trong phần source của repo
+Thực hiện trên file main.ipynb( sử dụng trên Colab) và các file script .py nằm trong phần source của repo
 <video src="https://github.com/user-attachments/assets/72bbdce2-763b-489b-8dcb-a7bd1b1beefa" width="100%" controls></video>
