@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/72bbdce2-763b-489b-8dcb-a7bd1b1beefa
-
-
-
-https://github.com/user-attachments/assets/cf5c27e3-1a13-4d49-8acf-9ad737affe61
-
 # Demo API LLM
 Đồ án thực hành Lab-1 thuộc môn Tư Duy Tính Toán 24CTT5  
 Sinh Viên thực hiện:  
@@ -20,4 +12,4 @@ Người sử dụng chỉ cần lấy file main.ipynb nằm trên nhánh main. 
 
 # Demo API  
 Thực hiện trực tiếp trên file .ipynb( sử dụng trên Colab) và các file script .py nằm trong phần source của repo
-<video src="https://github.com/ReallyEzyGame/demo-api-llm/edit/main/demo-api-call.mp4" width="100%" controls></video>
+<video src="https://github.com/user-attachments/assets/72bbdce2-763b-489b-8dcb-a7bd1b1beefa" width="100%" controls></video>
