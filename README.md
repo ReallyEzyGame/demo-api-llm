@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/72bbdce2-763b-489b-8dcb-a7bd1b1beefa
+
+
+
+https://github.com/user-attachments/assets/cf5c27e3-1a13-4d49-8acf-9ad737affe61
+
 # Demo API LLM
 Đồ án thực hành Lab-1 thuộc môn Tư Duy Tính Toán 24CTT5  
 Sinh Viên thực hiện:  
