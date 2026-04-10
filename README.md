@@ -12,4 +12,4 @@ Người sử dụng chỉ cần lấy file main.ipynb nằm trên nhánh main. 
 
 # Demo API  
 Thực hiện trực tiếp trên file .ipynb( sử dụng trên Colab) và các file script .py nằm trong phần source của repo
-<video src="demo-api-call.mp4" width="100%" controls></video>
+<video src="[demo-api-call.mp4](https://github.com/user/repo/blob/main/demo-api-call.mp4)" width="100%" controls></video>
